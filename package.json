@@ -1,0 +1,25 @@
+{
+  "name": "imc-calculator",
+  "version": "1.0.0",
+  "description": "IMC calulator",
+  "main": "index.js",
+  "scripts": {
+    "dev": "run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuel-vianna/imc-calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuel-vianna/imc-calculator/issues"
+  },
+  "homepage": "https://github.com/samuel-vianna/imc-calculator#readme",
+  "dependencies": {
+    "next": "^10.1.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
