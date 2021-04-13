@@ -4,7 +4,7 @@
   "description": "IMC calulator",
   "main": "index.js",
   "scripts": {
-    "dev": "run dev"
+    "dev": "next dev"
   },
   "repository": {
     "type": "git",
