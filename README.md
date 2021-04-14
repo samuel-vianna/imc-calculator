@@ -1,2 +1,5 @@
 # imc-calculator
-IMC calulator
+
+---
+
+Avaiable at this [link](https://imc-calculator-plum.vercel.app/)
