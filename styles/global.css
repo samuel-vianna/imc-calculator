@@ -1,3 +1,50 @@
-#main {
-    background-color: green !important;
+html{
+    margin: 0;
+}
+
+#container {
+    margin: 10vh auto;
+    padding: 24px;
+    text-align: center;
+    width: 50%;
+    box-shadow: 1px 1px 5px rgba(0,0,0,0.1);
+}
+
+#imc_form{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+}
+
+#results{
+    margin: 32px 0;
+}
+
+.box_result{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 30%;
+    margin: 0 auto;
+}
+
+input{
+    text-align: center;
+    width: 50%;
+    height: 16px;
+    font-size: 14px;
+}
+
+#footer{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+    width: 100%;
+    padding: 8px 0;
+
+    background-color: rgba(0,0,0,0.1);
+}
+
+#footer h5{
+    margin: 0;
 }
